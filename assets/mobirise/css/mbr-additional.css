@@ -1725,7 +1725,7 @@ section.lazy-placeholder:after {
 }
 .cid-sgtCZDa1wt .mbr-text,
 .cid-sgtCZDa1wt .mbr-section-btn {
-  text-align: left;
+  text-align: center;
 }
 .cid-sgtEbVhYuA {
   padding-top: 60px;
@@ -1999,6 +1999,7 @@ section.lazy-placeholder:after {
 }
 .cid-sgvBQXv0Ok P {
   color: #031e7e;
+  text-align: center;
 }
 .cid-sgvBQXv0Ok H2 {
   color: #031e7e;
@@ -2212,7 +2213,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-sgvRfoUOe6 .section-text DIV {
-  text-align: left;
+  text-align: center;
 }
 .cid-sgvSSAYqJS {
   padding-top: 60px;
@@ -2224,6 +2225,9 @@ section.lazy-placeholder:after {
 }
 .cid-sgvSSAYqJS .btn {
   margin: 0 0 .5rem 0;
+}
+.cid-sgvSSAYqJS H2 {
+  text-align: left;
 }
 .cid-sgw3R6fGP4 {
   padding-top: 75px;
@@ -2240,7 +2244,7 @@ section.lazy-placeholder:after {
 .cid-sgw3R6fGP4 .section-text {
   padding: 2rem 0;
   color: #ffffff;
-  text-align: left;
+  text-align: center;
 }
 .cid-sgw3R6fGP4 .inner-container {
   margin: 0 auto;
